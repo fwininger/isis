@@ -8,7 +8,7 @@ gem 'tinder' , '>= 1.9.2' # Campfire
 gem 'hipchat' # HipChat
 gem 'eventmachine'
 gem 'daemons'
-gem 'activesupport', '>= 5.2.4.3'
+gem 'activesupport', '>= 6.1.7.1'
 gem 'net-ssh'
 gem 'tzinfo'
 gem 'ffi', '>= 1.9.24'
