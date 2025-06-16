@@ -5,7 +5,7 @@ gem 'xmpp4r', git: 'https://github.com/silentgrowl/xmpp4r.git', platforms: :ruby
 gem 'smackr', '0.0.6', git: 'https://github.com/silentgrowl/smackr.git', platforms: :jruby
 gem 'slack-api', github: 'brendonrapp/slack-ruby-gem'
 gem 'tinder' , '>= 1.9.2' # Campfire
-gem 'hipchat' # HipChat
+gem 'hipchat' , '>= 0.8.0' # HipChat
 gem 'eventmachine'
 gem 'daemons'
 gem 'activesupport', '>= 5.2.4.3'
